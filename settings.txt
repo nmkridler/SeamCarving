@@ -1,0 +1,4 @@
+inFile /home/nick/seamcarving/data/Fuji.png
+rowScale 0.10
+colScale 0.10
+outFile /home/nick/seamcarving/result.png
